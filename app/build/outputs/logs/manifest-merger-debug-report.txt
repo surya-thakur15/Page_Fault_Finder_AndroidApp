@@ -1,0 +1,160 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\PageFaultFinder\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from D:\PageFaultFinder\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from D:\PageFaultFinder\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from D:\PageFaultFinder\app\src\main\AndroidManifest.xml:2:1-27:12
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Surya_Pratap_Singh\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\2142383bb949d967f7399bc0d1ff1434\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Surya_Pratap_Singh\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\2040ad7bb193b6fbc54d287ed254867b\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Surya_Pratap_Singh\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\397c4f0f796743f18e69600a0d33be8d\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Surya_Pratap_Singh\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\a5af982019ffa64757a01bd922b83c2f\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Surya_Pratap_Singh\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\5cb92978e18c83913b6bdfc9705a45bd\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Surya_Pratap_Singh\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\ed627c80df618f1bd5d5b60a4186c1e4\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Surya_Pratap_Singh\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\a150f171e2e07d50a080b9f5ee007df1\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Surya_Pratap_Singh\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\a1f002db0c8a97a4cd4a81f008b5d29b\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Surya_Pratap_Singh\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\bc47a8e999534b4ae101a9cd87305c64\AndroidManifest.xml:17:1-31:12
+INJECTED from D:\PageFaultFinder\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from D:\PageFaultFinder\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from D:\PageFaultFinder\app\src\main\AndroidManifest.xml:2:1-27:12
+	package
+		ADDED from D:\PageFaultFinder\app\src\main\AndroidManifest.xml:3:5-42
+		INJECTED from D:\PageFaultFinder\app\src\main\AndroidManifest.xml
+		INJECTED from D:\PageFaultFinder\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\PageFaultFinder\app\src\main\AndroidManifest.xml
+		ADDED from D:\PageFaultFinder\app\src\main\AndroidManifest.xml:2:1-27:12
+		INJECTED from D:\PageFaultFinder\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\PageFaultFinder\app\src\main\AndroidManifest.xml
+		ADDED from D:\PageFaultFinder\app\src\main\AndroidManifest.xml:2:1-27:12
+		INJECTED from D:\PageFaultFinder\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\PageFaultFinder\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from D:\PageFaultFinder\app\src\main\AndroidManifest.xml:5:5-25:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Surya_Pratap_Singh\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\2142383bb949d967f7399bc0d1ff1434\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Surya_Pratap_Singh\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\2142383bb949d967f7399bc0d1ff1434\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Surya_Pratap_Singh\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\2040ad7bb193b6fbc54d287ed254867b\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Surya_Pratap_Singh\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\2040ad7bb193b6fbc54d287ed254867b\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Surya_Pratap_Singh\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\397c4f0f796743f18e69600a0d33be8d\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Surya_Pratap_Singh\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\397c4f0f796743f18e69600a0d33be8d\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Surya_Pratap_Singh\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\a5af982019ffa64757a01bd922b83c2f\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Surya_Pratap_Singh\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\a5af982019ffa64757a01bd922b83c2f\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Surya_Pratap_Singh\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\5cb92978e18c83913b6bdfc9705a45bd\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Surya_Pratap_Singh\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\5cb92978e18c83913b6bdfc9705a45bd\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Surya_Pratap_Singh\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\ed627c80df618f1bd5d5b60a4186c1e4\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Surya_Pratap_Singh\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\ed627c80df618f1bd5d5b60a4186c1e4\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Surya_Pratap_Singh\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\a150f171e2e07d50a080b9f5ee007df1\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Surya_Pratap_Singh\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\a150f171e2e07d50a080b9f5ee007df1\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Surya_Pratap_Singh\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\a1f002db0c8a97a4cd4a81f008b5d29b\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Surya_Pratap_Singh\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\a1f002db0c8a97a4cd4a81f008b5d29b\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Surya_Pratap_Singh\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\bc47a8e999534b4ae101a9cd87305c64\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Surya_Pratap_Singh\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\bc47a8e999534b4ae101a9cd87305c64\AndroidManifest.xml:29:5-20
+	android:supportsRtl
+		ADDED from D:\PageFaultFinder\app\src\main\AndroidManifest.xml:9:9-35
+	android:label
+		ADDED from D:\PageFaultFinder\app\src\main\AndroidManifest.xml:8:9-41
+	android:icon
+		ADDED from D:\PageFaultFinder\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from D:\PageFaultFinder\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from D:\PageFaultFinder\app\src\main\AndroidManifest.xml:10:9-40
+activity#com.project.pagefaultfinder.MainActivity
+ADDED from D:\PageFaultFinder\app\src\main\AndroidManifest.xml:11:9-17:20
+	android:name
+		ADDED from D:\PageFaultFinder\app\src\main\AndroidManifest.xml:11:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\PageFaultFinder\app\src\main\AndroidManifest.xml:12:13-16:29
+action#android.intent.action.MAIN
+ADDED from D:\PageFaultFinder\app\src\main\AndroidManifest.xml:13:17-69
+	android:name
+		ADDED from D:\PageFaultFinder\app\src\main\AndroidManifest.xml:13:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\PageFaultFinder\app\src\main\AndroidManifest.xml:15:17-77
+	android:name
+		ADDED from D:\PageFaultFinder\app\src\main\AndroidManifest.xml:15:27-74
+activity#com.project.pagefaultfinder.Main2Activity
+ADDED from D:\PageFaultFinder\app\src\main\AndroidManifest.xml:18:9-51
+	android:name
+		ADDED from D:\PageFaultFinder\app\src\main\AndroidManifest.xml:18:19-48
+activity#com.project.pagefaultfinder.Main3Activity
+ADDED from D:\PageFaultFinder\app\src\main\AndroidManifest.xml:19:9-51
+	android:name
+		ADDED from D:\PageFaultFinder\app\src\main\AndroidManifest.xml:19:19-48
+activity#com.project.pagefaultfinder.Main4Activity
+ADDED from D:\PageFaultFinder\app\src\main\AndroidManifest.xml:20:9-51
+	android:name
+		ADDED from D:\PageFaultFinder\app\src\main\AndroidManifest.xml:20:19-48
+activity#com.project.pagefaultfinder.Main5Activity
+ADDED from D:\PageFaultFinder\app\src\main\AndroidManifest.xml:21:9-51
+	android:name
+		ADDED from D:\PageFaultFinder\app\src\main\AndroidManifest.xml:21:19-48
+activity#com.project.pagefaultfinder.Main6Activity
+ADDED from D:\PageFaultFinder\app\src\main\AndroidManifest.xml:22:9-51
+	android:name
+		ADDED from D:\PageFaultFinder\app\src\main\AndroidManifest.xml:22:19-48
+activity#com.project.pagefaultfinder.Main7Activity
+ADDED from D:\PageFaultFinder\app\src\main\AndroidManifest.xml:23:9-51
+	android:name
+		ADDED from D:\PageFaultFinder\app\src\main\AndroidManifest.xml:23:19-48
+activity#com.project.pagefaultfinder.Main8Activity
+ADDED from D:\PageFaultFinder\app\src\main\AndroidManifest.xml:24:9-60
+	android:name
+		ADDED from D:\PageFaultFinder\app\src\main\AndroidManifest.xml:24:19-48
+uses-sdk
+INJECTED from D:\PageFaultFinder\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\PageFaultFinder\app\src\main\AndroidManifest.xml
+INJECTED from D:\PageFaultFinder\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Surya_Pratap_Singh\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\2142383bb949d967f7399bc0d1ff1434\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Surya_Pratap_Singh\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\2142383bb949d967f7399bc0d1ff1434\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Surya_Pratap_Singh\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\2040ad7bb193b6fbc54d287ed254867b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Surya_Pratap_Singh\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\2040ad7bb193b6fbc54d287ed254867b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Surya_Pratap_Singh\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\397c4f0f796743f18e69600a0d33be8d\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Surya_Pratap_Singh\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\397c4f0f796743f18e69600a0d33be8d\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Surya_Pratap_Singh\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\a5af982019ffa64757a01bd922b83c2f\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Surya_Pratap_Singh\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\a5af982019ffa64757a01bd922b83c2f\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Surya_Pratap_Singh\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\5cb92978e18c83913b6bdfc9705a45bd\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Surya_Pratap_Singh\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\5cb92978e18c83913b6bdfc9705a45bd\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Surya_Pratap_Singh\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\ed627c80df618f1bd5d5b60a4186c1e4\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Surya_Pratap_Singh\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\ed627c80df618f1bd5d5b60a4186c1e4\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Surya_Pratap_Singh\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\a150f171e2e07d50a080b9f5ee007df1\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Surya_Pratap_Singh\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\a150f171e2e07d50a080b9f5ee007df1\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Surya_Pratap_Singh\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\a1f002db0c8a97a4cd4a81f008b5d29b\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Surya_Pratap_Singh\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\a1f002db0c8a97a4cd4a81f008b5d29b\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Surya_Pratap_Singh\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\bc47a8e999534b4ae101a9cd87305c64\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Surya_Pratap_Singh\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\bc47a8e999534b4ae101a9cd87305c64\AndroidManifest.xml:21:5-23:58
+INJECTED from D:\PageFaultFinder\app\src\main\AndroidManifest.xml
+INJECTED from D:\PageFaultFinder\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Surya_Pratap_Singh\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\2142383bb949d967f7399bc0d1ff1434\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from D:\PageFaultFinder\app\src\main\AndroidManifest.xml
+		ADDED from D:\PageFaultFinder\app\src\main\AndroidManifest.xml
+		INJECTED from D:\PageFaultFinder\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\PageFaultFinder\app\src\main\AndroidManifest.xml
+		ADDED from D:\PageFaultFinder\app\src\main\AndroidManifest.xml
+		INJECTED from D:\PageFaultFinder\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Surya_Pratap_Singh\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\2142383bb949d967f7399bc0d1ff1434\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Surya_Pratap_Singh\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\2040ad7bb193b6fbc54d287ed254867b\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Surya_Pratap_Singh\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\2040ad7bb193b6fbc54d287ed254867b\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Surya_Pratap_Singh\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\397c4f0f796743f18e69600a0d33be8d\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Surya_Pratap_Singh\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\397c4f0f796743f18e69600a0d33be8d\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Surya_Pratap_Singh\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\a5af982019ffa64757a01bd922b83c2f\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Surya_Pratap_Singh\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\a5af982019ffa64757a01bd922b83c2f\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Surya_Pratap_Singh\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\5cb92978e18c83913b6bdfc9705a45bd\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Surya_Pratap_Singh\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\5cb92978e18c83913b6bdfc9705a45bd\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Surya_Pratap_Singh\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\ed627c80df618f1bd5d5b60a4186c1e4\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Surya_Pratap_Singh\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\ed627c80df618f1bd5d5b60a4186c1e4\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Surya_Pratap_Singh\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\a150f171e2e07d50a080b9f5ee007df1\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Surya_Pratap_Singh\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\a150f171e2e07d50a080b9f5ee007df1\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Surya_Pratap_Singh\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\a1f002db0c8a97a4cd4a81f008b5d29b\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Surya_Pratap_Singh\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\a1f002db0c8a97a4cd4a81f008b5d29b\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Surya_Pratap_Singh\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\bc47a8e999534b4ae101a9cd87305c64\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Surya_Pratap_Singh\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\bc47a8e999534b4ae101a9cd87305c64\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Surya_Pratap_Singh\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\2142383bb949d967f7399bc0d1ff1434\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Surya_Pratap_Singh\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\2142383bb949d967f7399bc0d1ff1434\AndroidManifest.xml:26:9-47
