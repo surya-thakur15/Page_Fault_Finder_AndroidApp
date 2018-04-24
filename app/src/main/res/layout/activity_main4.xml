@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main4"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.project.pagefaultfinder.Main4Activity"
+    android:background="@drawable/images">
+
+    <TextView
+        android:text="FCFS"
+        android:textSize="30sp"
+        android:textColor="#FFFF"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginLeft="113dp"
+        android:layout_marginStart="113dp"
+        android:layout_marginTop="23dp"
+        android:id="@+id/textView8" />
+
+    <TextView
+        android:text="The first-come,first-serve (FCFS) page replacement algorithm is obvious from the name– the operating system keeps track of all the pages in memory in a queue, with the most recent arrival at the back, and the oldest arrival in front. When a page needs to be replaced, the page at the front of the queue (the oldest page) is selected. While FCFS is cheap and intuitive, it performs poorly in practical application."
+        android:layout_width="wrap_content"
+        android:textSize="20sp"
+        android:textColor="#FFFF"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="23dp"
+        android:id="@+id/textView9"
+        android:layout_marginLeft="16dp"
+        android:layout_below="@+id/textView8"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <TextView
+        android:text="@string/back"
+        android:textSize="20sp"
+        android:textColor="#FFFF"
+        android:onClick="back"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginLeft="13dp"
+        android:layout_marginStart="13dp"
+        android:layout_marginBottom="14dp"
+        android:id="@+id/textView10" />
+</RelativeLayout>

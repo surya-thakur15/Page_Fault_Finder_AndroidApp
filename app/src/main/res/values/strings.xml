@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Page Fault Finder</string>
+    <string name="back"><![CDATA[<-BACK]]></string>
+    <string name="next"> <![CDATA[NEXT->]]></string>
+</resources>

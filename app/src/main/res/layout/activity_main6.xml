@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main6"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.project.pagefaultfinder.Main6Activity"
+    android:background="@drawable/images">
+
+    <TextView
+        android:text="OPR"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="68dp"
+        android:textColor="#FFFF"
+        android:textSize="30sp"
+        android:layout_marginStart="68dp"
+        android:layout_marginTop="39dp"
+        android:id="@+id/textView14"
+        android:layout_alignParentTop="true"
+        android:layout_toRightOf="@+id/textView16"
+        android:layout_toEndOf="@+id/textView16" />
+
+    <TextView
+        android:text="The optimal page replacement(OPR) algorithm is an algorithm that works as follows: when a page needs to be swapped in, the operating system swaps out the page whose next use will occur farthest in the future. For example, a page that is not going to be used for the next 6 seconds will be swapped out over a page that is going to be used within the next 0.4 seconds."
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="#FFFF"
+        android:textSize="20sp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginTop="17dp"
+        android:id="@+id/textView15"
+        android:layout_below="@+id/textView14"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <TextView
+        android:text="@string/back"
+        android:textColor="#FFFF"
+        android:textSize="20sp"
+        android:onClick="back"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="23dp"
+        android:id="@+id/textView16"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+</RelativeLayout>
